@@ -1,1 +1,1 @@
-worker: zakaz-sergey.py
+worker: python zakaz-sergey.py
