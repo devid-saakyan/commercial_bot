@@ -1,0 +1,1 @@
+worker: zakaz-sergey.py
