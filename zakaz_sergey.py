@@ -70,8 +70,8 @@ while True:
             bot.send_message(719274325, 'Пополнение в сайте ФСК')
             bot.send_message(255056634, 'Пополнение в сайте ФСК')
         if counts[4] < new_counts[4]:
-            bot.send_message(719274325, 'Пополнение в сайте ИСР')
-            bot.send_message(255056634, 'Пополнение в сайте ИСР')
+            bot.send_message(719274325, 'Пополнение в сайте ЛСР')
+            bot.send_message(255056634, 'Пополнение в сайте ЛСР')
     counts = new_counts
     sleep(60)
 
